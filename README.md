@@ -20,3 +20,7 @@ This repository contains a small Streamlit web application developed as a class 
 │   └── employees.csv
 └── img/
     └── empleatronix.png
+
+### Webpage link of the app:
+
+<https://enrique-app-empleatronix.streamlit.app/>
