@@ -23,4 +23,4 @@ This repository contains a small Streamlit web application developed as a class 
 
 ### Webpage link of the app:
 
-<https://enrique-app-empleatronix.streamlit.app/>
+https://enrique-app-empleatronix.streamlit.app/
